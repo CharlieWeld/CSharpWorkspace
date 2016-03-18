@@ -1,0 +1,1 @@
+C:\Users\Charlie\Source\Workspaces\MVC\MVC_Send_Message\SendingMSG\bin\Debug\SendingMSG.exe.config
